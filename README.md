@@ -68,7 +68,7 @@
 <body>
     <div class="card">
         <h1>🎉 HBD, Mikee! 🎂</h1>
-        <img src="mikee/IMG_20231122_161608.jpg" alt="Mikee">
+        <img src="IMG_20231122_161608.jpg" alt="Mikee">
         <p>🎈 Enjoy your Day! Aguyyy sanaol...Ingat ikaw palagi! Sheeshh..IMY Beh! Muah! HAHAHAHAHAHAHA! 🎁✨</p>
     </div>
 </body>
